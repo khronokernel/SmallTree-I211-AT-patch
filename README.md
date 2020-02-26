@@ -6,8 +6,3 @@ So this little project came about when Vit9696 asked to update this kext to supp
 
 * Original kext: [SmallTree](https://small-tree.com/support/downloads/gigabit-ethernet-driver-download-page/)
 * Original patch: [Ydeng's patch](https://www.insanelymac.com/forum/topic/324392-ryzen-clover-installation-guide-macos-sierra/?page=18&tab=comments#comment-2460269)
-
-
-**Notes**:
-
-* So this kext is labeled 1.2.6 on SmallTree's site but inside it's actually `1.2.5`. ¯\_(ツ)_/¯
