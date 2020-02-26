@@ -1,6 +1,6 @@
 # Patching SmallTree to support I211-AT controllers
 
-So this little project came about when Vit9696 asked to update this kext to support SmallTreeIntel82576 version `1.2.6`, so here it is! Most users are likely running the `1.0.6` version Ydeng originally made then got rehosted both on [AMD OSX](https://drive.google.com/file/d/0B5Txx3pb7pgcOG5lSEF2VzFySWM/view) and on the OpenCore Guide.
+So this little project came about when Vit9696 asked to update this kext to support SmallTreeIntel82576 version `1.2.5`, so here it is! Most users are likely running the `1.0.6` version Ydeng originally made then got rehosted both on [AMD OSX](https://drive.google.com/file/d/0B5Txx3pb7pgcOG5lSEF2VzFySWM/view) and on the OpenCore Guide.
 
 **Sources**:
 
