@@ -7,4 +7,4 @@ So this little project came about when Vit9696 asked to update this kext to supp
 * Original kext: [SmallTree](https://small-tree.com/support/downloads/gigabit-ethernet-driver-download-page/)
 * Original patch: [Ydeng's patch](https://www.insanelymac.com/forum/topic/324392-ryzen-clover-installation-guide-macos-sierra/?page=18&tab=comments#comment-2460269)
 
-For those having issues can use the 1.0.6 which is also availblehere: [SmallTree 1.0.6](https://github.com/khronokernel/SmallTree-I211-AT-patch/tree/master/SmallTree-1.0.6/SmallTreeIntel82576-106.kext.zip)
+For those having issues can use the 1.0.6 which is also availblehere: [SmallTree 1.0.6](https://github.com/khronokernel/SmallTree-I211-AT-patch/blob/master/SmallTree%201.0.6/SmallTreeIntel82576-106.kext.zip)
